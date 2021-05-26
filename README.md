@@ -1,16 +1,13 @@
-### Hi there 👋
+*I'm a **Software QA** with over 6 years of experience in IT.*
 
-<!--
-**mkgerasimenko/mkgerasimenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Several years ago I tried to learn the **Java language** for later use in Automation testing and I've got it. After my first Automation testing courses, I couldn't find projects to realize obtained the knowledge gained . I've created some small projects with Automation tests to avoiding my manual routines.*
 
-Here are some ideas to get you started:
+*Also, I've had experience in **TypeScript**. I've created Page Objects, Page Elements worked with docker for running our tests in containers, and azure - for creating deploy scripts.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The major question is **Why do I want to learn Automated Testing?**. 
+These are a few thoughts about it:
+
+ - Improving new knowledge in the programing language, newest applications and technologies.
+ - Сlosely working with the development team.
+ - I get automation regression testing out of the way so I can focus on the fun stuff.
+ - Automating testing helps reduce time and effort for regression and other routine testing operation.
