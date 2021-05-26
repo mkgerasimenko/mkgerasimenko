@@ -11,3 +11,6 @@ These are a few thoughts about it:
  - Сlosely working with the development team.
  - I get automation regression testing out of the way so I can focus on the fun stuff.
  - Automating testing helps reduce time and effort for regression and other routine testing operation.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkgerasimenko&hide=contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
